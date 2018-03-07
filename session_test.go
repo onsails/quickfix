@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quickfixgo/quickfix/internal"
+	"github.com/prettynatty/quickfix/internal"
 
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
